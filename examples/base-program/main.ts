@@ -8,10 +8,14 @@ import { Account } from '@solana/web3.js';
 
 const programBinary = fs.readFileSync('./demo.so');
 
+
 async function main() {
-  const conn = solana.connect('local');
   
-  const mnemonic = "spin canyon tuition upset pioneer celery liquid conduct boy bargain dust seed"
+  const conn = solana.connect('dev');
+  
+  // const mnemonic = "spin canyon tuition upset pioneer celery liquid conduct boy bargain dust seed"
+  
+  const mnemonic = "vivid afford sail army doctor canvas image isolate world off depart close case someone hamster cycle stage glue truck venue vehicle cup match dry"
   const wallet = await Wallet.fromMnemonic(mnemonic, conn);
 
   console.log('Account address:', wallet.address);
