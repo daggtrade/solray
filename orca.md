@@ -18,9 +18,11 @@ https://orca-so.medium.com/orca-the-dex-for-people-not-programs-dc35b646feb9
 https://dex.bonfida.com/#/market/4absuMsgemvdjfkgdLQq1zKEjw3dHBoCWkzKoctndyqd
 
 Cons
+
     * should give ppl option to play on testnet !!
 
 Pros
+
     complete serum market pairs
 
 ### faucet
