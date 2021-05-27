@@ -1,19 +1,19 @@
-
+### Orca testnet is not open as well
 
 https://www.orca.so/
 
 https://testnet.orca.so/
 
 
-# LP GUi tutorial
+### LP GUi tutorial
 
 https://orca-1.gitbook.io/orca-docs-zh/ru-he-zai-orca-shang-ti-gong-liu-dong-xing
 
-# Medium news
+### Medium news
 
 https://orca-so.medium.com/orca-the-dex-for-people-not-programs-dc35b646feb9
 
-# bonfida dex
+### bonfida dex
 
 https://dex.bonfida.com/#/market/4absuMsgemvdjfkgdLQq1zKEjw3dHBoCWkzKoctndyqd
 
@@ -23,6 +23,7 @@ Cons
 Pros
     complete serum market pairs
 
-# faucet
+### faucet
     * sollet devnet can airdrop & mint
+
 
